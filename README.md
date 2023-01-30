@@ -37,10 +37,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 - Liste Elemanı
 - Liste Elemanı
 
-Code blocks :
- ```
-The code will go here.
- ```
+Code blocks : ``` The code will go here. Backticks should be on separate lines.```
 
 Link:
 [Yazi](url)
