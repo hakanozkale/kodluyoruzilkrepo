@@ -25,7 +25,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Markdown cheat-sheet
-``` # Başlık 1
+``` 
+# Başlık 1
 ## Başlık 2.. 
 
 *italic* 
@@ -36,9 +37,15 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 - Liste Elemanı
 - Liste Elemanı
 
+Code blocks :
+ ```
+The code will go here.
+ ```
+
 Link:
 [Yazi](url)
 
 Image/Gorsel:
 ![Aciklama Bilgisi](url)
 ![Lorem Picsum](https...)  
+``` 
